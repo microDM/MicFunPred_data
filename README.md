@@ -1,4 +1,4 @@
-[<p align="center"><img src="logo.jpeg" width=700 height=150></p>](http://210.212.161.138/MicFunPred/)
+[<p align="center"><img src="logo.jpeg" width=650 height=150></p>](http://210.212.161.138/MicFunPred/)
 
 #### This repository contains data used in comparative analysis of MicFunPred and other tools for the prediction of imputed metagenomes. MicFunPred code is freely available at https://github.com/microDM/MicFunPred and http://210.212.161.138/MicFunPred/ as online webserver.
 
